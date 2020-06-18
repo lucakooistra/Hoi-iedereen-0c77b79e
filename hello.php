@@ -1,3 +1,9 @@
 <?php
-echo 'hello world'
-?>
+
+$tekst = "heel erg depressief";
+echo $tekst . "<br>"; 
+echo $tekst . "<br>";
+echo $tekst . "<br>";
+echo $tekst . "<br>";
+echo $tekst . "<br>";
+?> 
